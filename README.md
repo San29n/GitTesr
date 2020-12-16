@@ -1,5 +1,4 @@
-# AOU
-# Project1
-# Project1
-# GitTesr
-# GitTesr
+# AOU Welcome
+
+print  ["hello aou"] ;
+
